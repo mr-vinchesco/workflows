@@ -1,0 +1,5 @@
+<plugin name="cordova-plugin-camera" spec="^6.0.0" />
+<plugin name="cordova-plugin-qrscanner" spec="^3.0.1" />
+<access origin="*" />
+<allow-intent href="http://*/*" />
+<allow-intent href="https://*/*" />
